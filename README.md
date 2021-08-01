@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @m1kem
+- 👀 I’m interested in back-end dev
+- 🌱 I’m currently learning python
+- 📫 How to reach me mkjk#6470
